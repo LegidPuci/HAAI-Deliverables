@@ -1,0 +1,19 @@
+INFO: [SIM 2] *************** CSIM start ***************
+INFO: [SIM 4] CSIM will launch GCC as the compiler.
+   Compiling ../../../../source/neuron_FxP/neuron_tb.cpp in debug mode
+   Generating csim.exe
+Neuron Weight Fixed Point = 446.281 (should be 446.29608)
+Neuron Bias Fixed Point = 152.078 (should be 152.08287)
+i = 0		In: -0.109375 (-0.1)		Out: 103.266 (107.453)
+i = 1		In: -0.078125 (-0.07)		Out: 117.203 (120.842)
+i = 2		In: -0.046875 (-0.04)		Out: 131.156 (134.231)
+i = 3		In: -0.015625 (-0.01)		Out: 145.094 (147.62)
+i = 4		In: 0.015625 (0.02)		Out: 159.047 (161.009)
+i = 5		In: 0.046875 (0.05)		Out: 172.984 (174.398)
+i = 6		In: 0.078125 (0.08)		Out: 186.938 (187.787)
+i = 7		In: 0.109375 (0.11)		Out: 200.875 (201.175)
+i = 8		In: 0.125 (0.14)		Out: 207.859 (214.564)
+i = 9		In: 0.15625 (0.17)		Out: 221.797 (227.953)
+i = 10		In: 0.1875 (0.2)		Out: 235.75 (241.342)
+INFO: [SIM 1] CSim done with 0 errors.
+INFO: [SIM 3] *************** CSIM finish ***************
